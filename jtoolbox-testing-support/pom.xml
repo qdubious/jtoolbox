@@ -5,11 +5,11 @@
 
     <parent>
         <groupId>com.sa.shared</groupId>
-        <artifactId>toolbox-parent</artifactId>
+        <artifactId>jtoolbox-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>toolbox-testing-support</artifactId>
+    <artifactId>jtoolbox-testing-support</artifactId>
 
     <dependencies>
         <dependency>

@@ -5,12 +5,12 @@
 
     <parent>
         <groupId>com.sa.shared</groupId>
-        <artifactId>toolbox-parent</artifactId>
+        <artifactId>jtoolbox-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>toolbox-utils</artifactId>
+    <artifactId>jtoolbox-utils</artifactId>
 
     <dependencies>
         <dependency>
@@ -30,7 +30,7 @@
         </dependency>
         <dependency>
             <groupId>com.sa.shared</groupId>
-            <artifactId>testing-support</artifactId>
+            <artifactId>jtoolbox-testing-support</artifactId>
             <version>${project.version}</version>
             <scope>test</scope>
         </dependency>

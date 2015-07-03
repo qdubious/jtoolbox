@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sa.shared</groupId>
-    <artifactId>toolbox-parent</artifactId>
+    <artifactId>jtoolbox-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -19,8 +19,8 @@
     </properties>
 
     <modules>
-        <module>toolbox-testing-support</module>
-        <module>toolbox-utils</module>
+        <module>jtoolbox-testing-support</module>
+        <module>jtoolbox-utils</module>
     </modules>
 
     <build>
