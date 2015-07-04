@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.sa.shared</groupId>
+        <groupId>com.squareatom.shared</groupId>
         <artifactId>jtoolbox-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
